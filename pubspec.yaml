@@ -1,7 +1,7 @@
 name: insta_app_bar_view_lego
 description: "Insta App Bar View Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/insta_app_bar_view_lego
 
 version: 1.0.0
 
